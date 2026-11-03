@@ -1,0 +1,6 @@
+{
+  "name": "Mukhtar Printing & Store",
+  "description": "Mukhtar Ahmed Printing & Computer Store, Main Bazar Umarzai. Complete e-commerce and printing services mobile app with real-time price calculators, file uploads, order tracking, and shop management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
